@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>B08AB3C4-754D-4F4A-8E0F-1D27C02A38C3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>B08AB3C4-754D-4F4A-8E0F-1D27C02A38C3.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>EarthquakeDisplayApp-fpqcbtbkdujgrggeyxqffimeoavb</string>
+			<key>timeStartedRecording</key>
+			<real>579826334.32727599</real>
+			<key>timeStoppedRecording</key>
+			<real>579826338.03194594</real>
+			<key>title</key>
+			<string>Build target EarthquakeDisplayApp</string>
+			<key>uniqueIdentifier</key>
+			<string>B08AB3C4-754D-4F4A-8E0F-1D27C02A38C3</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

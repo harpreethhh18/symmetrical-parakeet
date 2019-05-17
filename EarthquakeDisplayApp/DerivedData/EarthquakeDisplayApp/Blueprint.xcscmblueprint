@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "03A9B35994D87B87EE208C6039C799D3FA9700D4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "03A9B35994D87B87EE208C6039C799D3FA9700D4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DA67C8B7-111D-4A66-9817-ACE7320C0D50",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "03A9B35994D87B87EE208C6039C799D3FA9700D4" : "symmetrical-parakeet\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "EarthquakeDisplayApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "EarthquakeDisplayApp\/EarthquakeDisplayApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/harpreethhh18\/symmetrical-parakeet.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "03A9B35994D87B87EE208C6039C799D3FA9700D4"
+    }
+  ]
+}
