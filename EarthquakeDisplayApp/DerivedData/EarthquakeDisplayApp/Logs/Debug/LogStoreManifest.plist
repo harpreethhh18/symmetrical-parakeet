@@ -6,6 +6,294 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>008A4C6C-28B7-40C4-996C-AC43AF677175</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>008A4C6C-28B7-40C4-996C-AC43AF677175.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EarthquakeDisplayApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EarthquakeDisplayApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug EarthquakeDisplayApp</string>
+			<key>timeStartedRecording</key>
+			<real>579858186.22191501</real>
+			<key>timeStoppedRecording</key>
+			<real>579858321.33482003</real>
+			<key>title</key>
+			<string>Debug EarthquakeDisplayApp</string>
+			<key>uniqueIdentifier</key>
+			<string>008A4C6C-28B7-40C4-996C-AC43AF677175</string>
+		</dict>
+		<key>1818A289-FFC1-4CDB-A330-91A7C6EF1C0B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1818A289-FFC1-4CDB-A330-91A7C6EF1C0B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EarthquakeDisplayApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EarthquakeDisplayApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug EarthquakeDisplayApp</string>
+			<key>timeStartedRecording</key>
+			<real>579859174.75613201</real>
+			<key>timeStoppedRecording</key>
+			<real>579860285.90109396</real>
+			<key>title</key>
+			<string>Debug EarthquakeDisplayApp</string>
+			<key>uniqueIdentifier</key>
+			<string>1818A289-FFC1-4CDB-A330-91A7C6EF1C0B</string>
+		</dict>
+		<key>23069E2C-565F-467D-9E6A-2549127F269C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>23069E2C-565F-467D-9E6A-2549127F269C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EarthquakeDisplayApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EarthquakeDisplayApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug EarthquakeDisplayApp</string>
+			<key>timeStartedRecording</key>
+			<real>579857233.93112397</real>
+			<key>timeStoppedRecording</key>
+			<real>579857282.45567799</real>
+			<key>title</key>
+			<string>Debug EarthquakeDisplayApp</string>
+			<key>uniqueIdentifier</key>
+			<string>23069E2C-565F-467D-9E6A-2549127F269C</string>
+		</dict>
+		<key>5F29AA71-170E-4EF1-A60A-A78F3274D621</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5F29AA71-170E-4EF1-A60A-A78F3274D621.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EarthquakeDisplayApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EarthquakeDisplayApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug EarthquakeDisplayApp</string>
+			<key>timeStartedRecording</key>
+			<real>579857282.50307798</real>
+			<key>timeStoppedRecording</key>
+			<real>579858184.68550301</real>
+			<key>title</key>
+			<string>Debug EarthquakeDisplayApp</string>
+			<key>uniqueIdentifier</key>
+			<string>5F29AA71-170E-4EF1-A60A-A78F3274D621</string>
+		</dict>
+		<key>641A6F95-7382-4915-8658-2568F7BF0A83</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>641A6F95-7382-4915-8658-2568F7BF0A83.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EarthquakeDisplayApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EarthquakeDisplayApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug EarthquakeDisplayApp</string>
+			<key>timeStartedRecording</key>
+			<real>579859099.42861903</real>
+			<key>timeStoppedRecording</key>
+			<real>579859174.01120698</real>
+			<key>title</key>
+			<string>Debug EarthquakeDisplayApp</string>
+			<key>uniqueIdentifier</key>
+			<string>641A6F95-7382-4915-8658-2568F7BF0A83</string>
+		</dict>
+		<key>86FF36F2-C464-4A8F-9212-06C938E370A9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>86FF36F2-C464-4A8F-9212-06C938E370A9.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EarthquakeDisplayApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EarthquakeDisplayApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug EarthquakeDisplayApp</string>
+			<key>timeStartedRecording</key>
+			<real>579858842.186975</real>
+			<key>timeStoppedRecording</key>
+			<real>579858948.23067796</real>
+			<key>title</key>
+			<string>Debug EarthquakeDisplayApp</string>
+			<key>uniqueIdentifier</key>
+			<string>86FF36F2-C464-4A8F-9212-06C938E370A9</string>
+		</dict>
+		<key>A3CC1CDA-5057-4200-AB1A-3BF9A5AEAB8A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A3CC1CDA-5057-4200-AB1A-3BF9A5AEAB8A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EarthquakeDisplayApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EarthquakeDisplayApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug EarthquakeDisplayApp</string>
+			<key>timeStartedRecording</key>
+			<real>579859052.86121798</real>
+			<key>timeStoppedRecording</key>
+			<real>579859098.84519506</real>
+			<key>title</key>
+			<string>Debug EarthquakeDisplayApp</string>
+			<key>uniqueIdentifier</key>
+			<string>A3CC1CDA-5057-4200-AB1A-3BF9A5AEAB8A</string>
+		</dict>
+		<key>B6AEA6AA-307B-4AE8-B4D2-33584B81483A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B6AEA6AA-307B-4AE8-B4D2-33584B81483A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EarthquakeDisplayApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EarthquakeDisplayApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug EarthquakeDisplayApp</string>
+			<key>timeStartedRecording</key>
+			<real>579858321.95020604</real>
+			<key>timeStoppedRecording</key>
+			<real>579858841.83749294</real>
+			<key>title</key>
+			<string>Debug EarthquakeDisplayApp</string>
+			<key>uniqueIdentifier</key>
+			<string>B6AEA6AA-307B-4AE8-B4D2-33584B81483A</string>
+		</dict>
+		<key>BD92C80E-0991-4DD3-AAB0-F461C1AA27E2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>BD92C80E-0991-4DD3-AAB0-F461C1AA27E2.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EarthquakeDisplayApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EarthquakeDisplayApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug EarthquakeDisplayApp</string>
+			<key>timeStartedRecording</key>
+			<real>579860286.827703</real>
+			<key>timeStoppedRecording</key>
+			<real>579860750.39605105</real>
+			<key>title</key>
+			<string>Debug EarthquakeDisplayApp</string>
+			<key>uniqueIdentifier</key>
+			<string>BD92C80E-0991-4DD3-AAB0-F461C1AA27E2</string>
+		</dict>
 		<key>C1FE0AD1-D589-4096-AFE0-297360172748</key>
 		<dict>
 			<key>className</key>
@@ -37,6 +325,70 @@
 			<string>Debug EarthquakeDisplayApp</string>
 			<key>uniqueIdentifier</key>
 			<string>C1FE0AD1-D589-4096-AFE0-297360172748</string>
+		</dict>
+		<key>CE2EA698-076B-4B86-B912-17EC57A875F1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CE2EA698-076B-4B86-B912-17EC57A875F1.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EarthquakeDisplayApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EarthquakeDisplayApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug EarthquakeDisplayApp</string>
+			<key>timeStartedRecording</key>
+			<real>579859001.24383199</real>
+			<key>timeStoppedRecording</key>
+			<real>579859052.81979704</real>
+			<key>title</key>
+			<string>Debug EarthquakeDisplayApp</string>
+			<key>uniqueIdentifier</key>
+			<string>CE2EA698-076B-4B86-B912-17EC57A875F1</string>
+		</dict>
+		<key>DABBA717-CB7B-46D9-BE16-2F1C25CC709D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DABBA717-CB7B-46D9-BE16-2F1C25CC709D.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EarthquakeDisplayApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EarthquakeDisplayApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug EarthquakeDisplayApp</string>
+			<key>timeStartedRecording</key>
+			<real>579860751.13646305</real>
+			<key>timeStoppedRecording</key>
+			<real>579863870.46853101</real>
+			<key>title</key>
+			<string>Debug EarthquakeDisplayApp</string>
+			<key>uniqueIdentifier</key>
+			<string>DABBA717-CB7B-46D9-BE16-2F1C25CC709D</string>
 		</dict>
 	</dict>
 </dict>

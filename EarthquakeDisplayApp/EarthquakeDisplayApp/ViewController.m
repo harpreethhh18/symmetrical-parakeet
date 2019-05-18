@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import "GeoAPIServerManager.h"
 
 @interface ViewController ()
 
@@ -17,7 +18,14 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
+    
+    [[GeoAPIServerManager sharedManager] getEarthquakeSummaryInfoFromGeoServerWithSuccessHandler:^(NSArray * _Nonnull earthquakeSummary) {
+        
+    } failureHandler:^(NSString * _Nonnull failureInfo) {
+        
+    }];
 }
+
 
 
 @end

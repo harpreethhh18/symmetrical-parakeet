@@ -19,8 +19,6 @@
 		44544439228F6664009E7ECA /* EarthquakeInfoTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 44544435228F6664009E7ECA /* EarthquakeInfoTableViewCell.xib */; };
 		4454443A228F6664009E7ECA /* EarthquakeInfoTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 44544435228F6664009E7ECA /* EarthquakeInfoTableViewCell.xib */; };
 		4454443B228F6664009E7ECA /* EarthquakeInfoTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 44544435228F6664009E7ECA /* EarthquakeInfoTableViewCell.xib */; };
-		44544469228F6CA2009E7ECA /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 44544443228F6CA1009E7ECA /* LICENSE */; };
-		4454446A228F6CA2009E7ECA /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 44544444228F6CA1009E7ECA /* README.md */; };
 		4454446B228F6CA2009E7ECA /* UIProgressView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 44544446228F6CA1009E7ECA /* UIProgressView+AFNetworking.m */; };
 		4454446C228F6CA2009E7ECA /* UIRefreshControl+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 44544448228F6CA1009E7ECA /* UIRefreshControl+AFNetworking.m */; };
 		4454446D228F6CA2009E7ECA /* AFNetworkActivityIndicatorManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 4454444B228F6CA1009E7ECA /* AFNetworkActivityIndicatorManager.m */; };
@@ -37,6 +35,17 @@
 		44544478228F6CA2009E7ECA /* AFNetworkReachabilityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 44544465228F6CA2009E7ECA /* AFNetworkReachabilityManager.m */; };
 		44544479228F6CA2009E7ECA /* AFSecurityPolicy.m in Sources */ = {isa = PBXBuildFile; fileRef = 44544466228F6CA2009E7ECA /* AFSecurityPolicy.m */; };
 		4454447E228F6F46009E7ECA /* GeoAPIServerManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 4454447D228F6F46009E7ECA /* GeoAPIServerManager.m */; };
+		445444BA228FFE49009E7ECA /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 445444A3228FFE49009E7ECA /* LICENSE */; };
+		445444BB228FFE49009E7ECA /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 445444A4228FFE49009E7ECA /* README.md */; };
+		445444BC228FFE49009E7ECA /* JSONValueTransformer.m in Sources */ = {isa = PBXBuildFile; fileRef = 445444A7228FFE49009E7ECA /* JSONValueTransformer.m */; };
+		445444BD228FFE49009E7ECA /* JSONKeyMapper.m in Sources */ = {isa = PBXBuildFile; fileRef = 445444AA228FFE49009E7ECA /* JSONKeyMapper.m */; };
+		445444BE228FFE49009E7ECA /* JSONModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 445444AC228FFE49009E7ECA /* JSONModel.m */; };
+		445444BF228FFE49009E7ECA /* JSONModelError.m in Sources */ = {isa = PBXBuildFile; fileRef = 445444AD228FFE49009E7ECA /* JSONModelError.m */; };
+		445444C0228FFE49009E7ECA /* JSONModelClassProperty.m in Sources */ = {isa = PBXBuildFile; fileRef = 445444B0228FFE49009E7ECA /* JSONModelClassProperty.m */; };
+		445444C1228FFE49009E7ECA /* JSONHTTPClient.m in Sources */ = {isa = PBXBuildFile; fileRef = 445444B4228FFE49009E7ECA /* JSONHTTPClient.m */; };
+		445444C2228FFE49009E7ECA /* JSONAPI.m in Sources */ = {isa = PBXBuildFile; fileRef = 445444B5228FFE49009E7ECA /* JSONAPI.m */; };
+		445444C3228FFE49009E7ECA /* JSONModel+networking.m in Sources */ = {isa = PBXBuildFile; fileRef = 445444B9228FFE49009E7ECA /* JSONModel+networking.m */; };
+		445444C622900406009E7ECA /* GeoAPIBaseResponseModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 445444C522900406009E7ECA /* GeoAPIBaseResponseModel.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -76,8 +85,6 @@
 		44544433228F6664009E7ECA /* EarthquakeInfoTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EarthquakeInfoTableViewCell.h; sourceTree = "<group>"; };
 		44544434228F6664009E7ECA /* EarthquakeInfoTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EarthquakeInfoTableViewCell.m; sourceTree = "<group>"; };
 		44544435228F6664009E7ECA /* EarthquakeInfoTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = EarthquakeInfoTableViewCell.xib; sourceTree = "<group>"; };
-		44544443228F6CA1009E7ECA /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		44544444228F6CA1009E7ECA /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		44544446228F6CA1009E7ECA /* UIProgressView+AFNetworking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIProgressView+AFNetworking.m"; sourceTree = "<group>"; };
 		44544447228F6CA1009E7ECA /* UIButton+AFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+AFNetworking.h"; sourceTree = "<group>"; };
 		44544448228F6CA1009E7ECA /* UIRefreshControl+AFNetworking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIRefreshControl+AFNetworking.m"; sourceTree = "<group>"; };
@@ -114,6 +121,27 @@
 		44544468228F6CA2009E7ECA /* AFHTTPSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFHTTPSessionManager.h; sourceTree = "<group>"; };
 		4454447C228F6F46009E7ECA /* GeoAPIServerManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GeoAPIServerManager.h; sourceTree = "<group>"; };
 		4454447D228F6F46009E7ECA /* GeoAPIServerManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GeoAPIServerManager.m; sourceTree = "<group>"; };
+		445444A3228FFE49009E7ECA /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		445444A4228FFE49009E7ECA /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		445444A7228FFE49009E7ECA /* JSONValueTransformer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JSONValueTransformer.m; sourceTree = "<group>"; };
+		445444A8228FFE49009E7ECA /* JSONKeyMapper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSONKeyMapper.h; sourceTree = "<group>"; };
+		445444A9228FFE49009E7ECA /* JSONValueTransformer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSONValueTransformer.h; sourceTree = "<group>"; };
+		445444AA228FFE49009E7ECA /* JSONKeyMapper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JSONKeyMapper.m; sourceTree = "<group>"; };
+		445444AC228FFE49009E7ECA /* JSONModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JSONModel.m; sourceTree = "<group>"; };
+		445444AD228FFE49009E7ECA /* JSONModelError.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JSONModelError.m; sourceTree = "<group>"; };
+		445444AE228FFE49009E7ECA /* JSONModelClassProperty.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSONModelClassProperty.h; sourceTree = "<group>"; };
+		445444AF228FFE49009E7ECA /* JSONModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSONModel.h; sourceTree = "<group>"; };
+		445444B0228FFE49009E7ECA /* JSONModelClassProperty.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JSONModelClassProperty.m; sourceTree = "<group>"; };
+		445444B1228FFE49009E7ECA /* JSONModelError.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSONModelError.h; sourceTree = "<group>"; };
+		445444B2228FFE49009E7ECA /* JSONModelLib.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSONModelLib.h; sourceTree = "<group>"; };
+		445444B4228FFE49009E7ECA /* JSONHTTPClient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JSONHTTPClient.m; sourceTree = "<group>"; };
+		445444B5228FFE49009E7ECA /* JSONAPI.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JSONAPI.m; sourceTree = "<group>"; };
+		445444B6228FFE49009E7ECA /* JSONModel+networking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "JSONModel+networking.h"; sourceTree = "<group>"; };
+		445444B7228FFE49009E7ECA /* JSONHTTPClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSONHTTPClient.h; sourceTree = "<group>"; };
+		445444B8228FFE49009E7ECA /* JSONAPI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSONAPI.h; sourceTree = "<group>"; };
+		445444B9228FFE49009E7ECA /* JSONModel+networking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "JSONModel+networking.m"; sourceTree = "<group>"; };
+		445444C422900405009E7ECA /* GeoAPIBaseResponseModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GeoAPIBaseResponseModel.h; sourceTree = "<group>"; };
+		445444C522900406009E7ECA /* GeoAPIBaseResponseModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GeoAPIBaseResponseModel.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -164,7 +192,7 @@
 		445443ED228F6240009E7ECA /* EarthquakeDisplayApp */ = {
 			isa = PBXGroup;
 			children = (
-				4454447A228F6F46009E7ECA /* Helper */,
+				4454447F228FFD95009E7ECA /* Models */,
 				4454447B228F6F46009E7ECA /* Manager */,
 				44544441228F6CA1009E7ECA /* Frameworks */,
 				44544433228F6664009E7ECA /* EarthquakeInfoTableViewCell.h */,
@@ -204,6 +232,7 @@
 		44544441228F6CA1009E7ECA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				445444A2228FFE49009E7ECA /* JSONModel */,
 				44544442228F6CA1009E7ECA /* AFNetworking */,
 			);
 			path = Frameworks;
@@ -212,8 +241,6 @@
 		44544442228F6CA1009E7ECA /* AFNetworking */ = {
 			isa = PBXGroup;
 			children = (
-				44544443228F6CA1009E7ECA /* LICENSE */,
-				44544444228F6CA1009E7ECA /* README.md */,
 				44544445228F6CA1009E7ECA /* UIKit+AFNetworking */,
 				4454445A228F6CA1009E7ECA /* AFNetworking */,
 			);
@@ -268,13 +295,6 @@
 			path = AFNetworking;
 			sourceTree = "<group>";
 		};
-		4454447A228F6F46009E7ECA /* Helper */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Helper;
-			sourceTree = "<group>";
-		};
 		4454447B228F6F46009E7ECA /* Manager */ = {
 			isa = PBXGroup;
 			children = (
@@ -282,6 +302,73 @@
 				4454447D228F6F46009E7ECA /* GeoAPIServerManager.m */,
 			);
 			path = Manager;
+			sourceTree = "<group>";
+		};
+		4454447F228FFD95009E7ECA /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				445444C422900405009E7ECA /* GeoAPIBaseResponseModel.h */,
+				445444C522900406009E7ECA /* GeoAPIBaseResponseModel.m */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		445444A2228FFE49009E7ECA /* JSONModel */ = {
+			isa = PBXGroup;
+			children = (
+				445444A3228FFE49009E7ECA /* LICENSE */,
+				445444A4228FFE49009E7ECA /* README.md */,
+				445444A5228FFE49009E7ECA /* JSONModel */,
+			);
+			path = JSONModel;
+			sourceTree = "<group>";
+		};
+		445444A5228FFE49009E7ECA /* JSONModel */ = {
+			isa = PBXGroup;
+			children = (
+				445444A6228FFE49009E7ECA /* JSONModelTransformations */,
+				445444AB228FFE49009E7ECA /* JSONModel */,
+				445444B2228FFE49009E7ECA /* JSONModelLib.h */,
+				445444B3228FFE49009E7ECA /* JSONModelNetworking */,
+			);
+			path = JSONModel;
+			sourceTree = "<group>";
+		};
+		445444A6228FFE49009E7ECA /* JSONModelTransformations */ = {
+			isa = PBXGroup;
+			children = (
+				445444A7228FFE49009E7ECA /* JSONValueTransformer.m */,
+				445444A8228FFE49009E7ECA /* JSONKeyMapper.h */,
+				445444A9228FFE49009E7ECA /* JSONValueTransformer.h */,
+				445444AA228FFE49009E7ECA /* JSONKeyMapper.m */,
+			);
+			path = JSONModelTransformations;
+			sourceTree = "<group>";
+		};
+		445444AB228FFE49009E7ECA /* JSONModel */ = {
+			isa = PBXGroup;
+			children = (
+				445444AC228FFE49009E7ECA /* JSONModel.m */,
+				445444AD228FFE49009E7ECA /* JSONModelError.m */,
+				445444AE228FFE49009E7ECA /* JSONModelClassProperty.h */,
+				445444AF228FFE49009E7ECA /* JSONModel.h */,
+				445444B0228FFE49009E7ECA /* JSONModelClassProperty.m */,
+				445444B1228FFE49009E7ECA /* JSONModelError.h */,
+			);
+			path = JSONModel;
+			sourceTree = "<group>";
+		};
+		445444B3228FFE49009E7ECA /* JSONModelNetworking */ = {
+			isa = PBXGroup;
+			children = (
+				445444B4228FFE49009E7ECA /* JSONHTTPClient.m */,
+				445444B5228FFE49009E7ECA /* JSONAPI.m */,
+				445444B6228FFE49009E7ECA /* JSONModel+networking.h */,
+				445444B7228FFE49009E7ECA /* JSONHTTPClient.h */,
+				445444B8228FFE49009E7ECA /* JSONAPI.h */,
+				445444B9228FFE49009E7ECA /* JSONModel+networking.m */,
+			);
+			path = JSONModelNetworking;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -387,12 +474,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4454446A228F6CA2009E7ECA /* README.md in Resources */,
+				445444BB228FFE49009E7ECA /* README.md in Resources */,
 				445443FB228F6242009E7ECA /* LaunchScreen.storyboard in Resources */,
 				445443F8228F6242009E7ECA /* Assets.xcassets in Resources */,
 				44544439228F6664009E7ECA /* EarthquakeInfoTableViewCell.xib in Resources */,
 				445443F6228F6241009E7ECA /* Main.storyboard in Resources */,
-				44544469228F6CA2009E7ECA /* LICENSE in Resources */,
+				445444BA228FFE49009E7ECA /* LICENSE in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -419,22 +506,31 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				445444BF228FFE49009E7ECA /* JSONModelError.m in Sources */,
 				44544476228F6CA2009E7ECA /* AFURLSessionManager.m in Sources */,
 				4454446C228F6CA2009E7ECA /* UIRefreshControl+AFNetworking.m in Sources */,
+				445444C622900406009E7ECA /* GeoAPIBaseResponseModel.m in Sources */,
 				445443F3228F6241009E7ECA /* ViewController.m in Sources */,
 				44544470228F6CA2009E7ECA /* UIActivityIndicatorView+AFNetworking.m in Sources */,
+				445444BD228FFE49009E7ECA /* JSONKeyMapper.m in Sources */,
 				44544478228F6CA2009E7ECA /* AFNetworkReachabilityManager.m in Sources */,
+				445444C0228FFE49009E7ECA /* JSONModelClassProperty.m in Sources */,
 				44544474228F6CA2009E7ECA /* AFURLResponseSerialization.m in Sources */,
 				445443FE228F6242009E7ECA /* main.m in Sources */,
 				4454446D228F6CA2009E7ECA /* AFNetworkActivityIndicatorManager.m in Sources */,
 				44544475228F6CA2009E7ECA /* AFHTTPSessionManager.m in Sources */,
 				44544477228F6CA2009E7ECA /* AFURLRequestSerialization.m in Sources */,
 				44544436228F6664009E7ECA /* EarthquakeInfoTableViewCell.m in Sources */,
+				445444BC228FFE49009E7ECA /* JSONValueTransformer.m in Sources */,
 				4454446F228F6CA2009E7ECA /* UIButton+AFNetworking.m in Sources */,
 				44544472228F6CA2009E7ECA /* AFAutoPurgingImageCache.m in Sources */,
 				44544471228F6CA2009E7ECA /* UIWebView+AFNetworking.m in Sources */,
 				4454446B228F6CA2009E7ECA /* UIProgressView+AFNetworking.m in Sources */,
+				445444C3228FFE49009E7ECA /* JSONModel+networking.m in Sources */,
 				4454447E228F6F46009E7ECA /* GeoAPIServerManager.m in Sources */,
+				445444C2228FFE49009E7ECA /* JSONAPI.m in Sources */,
+				445444C1228FFE49009E7ECA /* JSONHTTPClient.m in Sources */,
+				445444BE228FFE49009E7ECA /* JSONModel.m in Sources */,
 				44544479228F6CA2009E7ECA /* AFSecurityPolicy.m in Sources */,
 				44544473228F6CA2009E7ECA /* AFImageDownloader.m in Sources */,
 				4454446E228F6CA2009E7ECA /* UIImageView+AFNetworking.m in Sources */,

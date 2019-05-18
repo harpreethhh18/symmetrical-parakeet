@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>B08AB3C4-754D-4F4A-8E0F-1D27C02A38C3</key>
+		<key>42019ED8-3FF0-4992-8B47-B4E628DEA7CF</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>B08AB3C4-754D-4F4A-8E0F-1D27C02A38C3.xcactivitylog</string>
+			<string>42019ED8-3FF0-4992-8B47-B4E628DEA7CF.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -24,13 +24,13 @@
 			<key>signature</key>
 			<string>EarthquakeDisplayApp-fpqcbtbkdujgrggeyxqffimeoavb</string>
 			<key>timeStartedRecording</key>
-			<real>579826334.32727599</real>
+			<real>579863871.10130596</real>
 			<key>timeStoppedRecording</key>
-			<real>579826338.03194594</real>
+			<real>579863872.18909204</real>
 			<key>title</key>
 			<string>Build target EarthquakeDisplayApp</string>
 			<key>uniqueIdentifier</key>
-			<string>B08AB3C4-754D-4F4A-8E0F-1D27C02A38C3</string>
+			<string>42019ED8-3FF0-4992-8B47-B4E628DEA7CF</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

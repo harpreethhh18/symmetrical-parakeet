@@ -6,6 +6,38 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>17FA26C5-270F-4205-9941-3099BF866163</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>17FA26C5-270F-4205-9941-3099BF866163.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EarthquakeDisplayApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EarthquakeDisplayApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EarthquakeDisplayApp</string>
+			<key>timeStartedRecording</key>
+			<real>579859000.35236299</real>
+			<key>timeStoppedRecording</key>
+			<real>579859001.35197902</real>
+			<key>title</key>
+			<string>Build EarthquakeDisplayApp</string>
+			<key>uniqueIdentifier</key>
+			<string>17FA26C5-270F-4205-9941-3099BF866163</string>
+		</dict>
 		<key>1ACC161E-2045-4A44-A385-CC047EFB9426</key>
 		<dict>
 			<key>className</key>
@@ -134,6 +166,38 @@
 			<key>uniqueIdentifier</key>
 			<string>402CAC9C-D9D7-4FD9-AF17-E614D147A794</string>
 		</dict>
+		<key>6B0D79F9-BB2F-4D51-89AB-1CCAFD0569B7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6B0D79F9-BB2F-4D51-89AB-1CCAFD0569B7.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EarthquakeDisplayApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EarthquakeDisplayApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EarthquakeDisplayApp</string>
+			<key>timeStartedRecording</key>
+			<real>579860750.28401506</real>
+			<key>timeStoppedRecording</key>
+			<real>579860751.26176703</real>
+			<key>title</key>
+			<string>Build EarthquakeDisplayApp</string>
+			<key>uniqueIdentifier</key>
+			<string>6B0D79F9-BB2F-4D51-89AB-1CCAFD0569B7</string>
+		</dict>
 		<key>6DED85D1-8A81-4DD6-810C-5C1B5948BD0B</key>
 		<dict>
 			<key>className</key>
@@ -165,6 +229,102 @@
 			<string>Clean EarthquakeDisplayApp</string>
 			<key>uniqueIdentifier</key>
 			<string>6DED85D1-8A81-4DD6-810C-5C1B5948BD0B</string>
+		</dict>
+		<key>830AE464-2370-46AD-A180-712A0154943B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>830AE464-2370-46AD-A180-712A0154943B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EarthquakeDisplayApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EarthquakeDisplayApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EarthquakeDisplayApp</string>
+			<key>timeStartedRecording</key>
+			<real>579858321.26103795</real>
+			<key>timeStoppedRecording</key>
+			<real>579858322.216483</real>
+			<key>title</key>
+			<string>Build EarthquakeDisplayApp</string>
+			<key>uniqueIdentifier</key>
+			<string>830AE464-2370-46AD-A180-712A0154943B</string>
+		</dict>
+		<key>85AEF361-B58E-41FC-A1BD-D6445CAC6AA4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>85AEF361-B58E-41FC-A1BD-D6445CAC6AA4.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EarthquakeDisplayApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EarthquakeDisplayApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EarthquakeDisplayApp</string>
+			<key>timeStartedRecording</key>
+			<real>579858842.10259104</real>
+			<key>timeStoppedRecording</key>
+			<real>579858842.267272</real>
+			<key>title</key>
+			<string>Build EarthquakeDisplayApp</string>
+			<key>uniqueIdentifier</key>
+			<string>85AEF361-B58E-41FC-A1BD-D6445CAC6AA4</string>
+		</dict>
+		<key>8AFA349D-BDCE-4F0E-9B8E-28F728A29C28</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8AFA349D-BDCE-4F0E-9B8E-28F728A29C28.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EarthquakeDisplayApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EarthquakeDisplayApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EarthquakeDisplayApp</string>
+			<key>timeStartedRecording</key>
+			<real>579858948.03563595</real>
+			<key>timeStoppedRecording</key>
+			<real>579858949.06929898</real>
+			<key>title</key>
+			<string>Build EarthquakeDisplayApp</string>
+			<key>uniqueIdentifier</key>
+			<string>8AFA349D-BDCE-4F0E-9B8E-28F728A29C28</string>
 		</dict>
 		<key>95768E9F-30C8-4E74-B226-1AF8C5749C32</key>
 		<dict>
@@ -230,6 +390,38 @@
 			<key>uniqueIdentifier</key>
 			<string>98C3BC72-05AD-4307-B617-7CBE0FCD163B</string>
 		</dict>
+		<key>A1B7E398-D01C-48C4-81F8-BDBB931A1E4F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A1B7E398-D01C-48C4-81F8-BDBB931A1E4F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EarthquakeDisplayApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EarthquakeDisplayApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EarthquakeDisplayApp</string>
+			<key>timeStartedRecording</key>
+			<real>579860285.82188904</real>
+			<key>timeStoppedRecording</key>
+			<real>579860287.05232406</real>
+			<key>title</key>
+			<string>Build EarthquakeDisplayApp</string>
+			<key>uniqueIdentifier</key>
+			<string>A1B7E398-D01C-48C4-81F8-BDBB931A1E4F</string>
+		</dict>
 		<key>A96B311C-0577-41DA-BDD8-0FCCA1777BC4</key>
 		<dict>
 			<key>className</key>
@@ -293,6 +485,230 @@
 			<string>Build EarthquakeDisplayApp</string>
 			<key>uniqueIdentifier</key>
 			<string>C452FDCE-1E50-411E-83B9-9A960BAB4463</string>
+		</dict>
+		<key>CDFB7A46-1131-4C41-A981-3602637E5508</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CDFB7A46-1131-4C41-A981-3602637E5508.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EarthquakeDisplayApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EarthquakeDisplayApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EarthquakeDisplayApp</string>
+			<key>timeStartedRecording</key>
+			<real>579857232.86345005</real>
+			<key>timeStoppedRecording</key>
+			<real>579857234.02415001</real>
+			<key>title</key>
+			<string>Build EarthquakeDisplayApp</string>
+			<key>uniqueIdentifier</key>
+			<string>CDFB7A46-1131-4C41-A981-3602637E5508</string>
+		</dict>
+		<key>E2E184AE-B511-43C5-BD92-3B7183298CF3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E2E184AE-B511-43C5-BD92-3B7183298CF3.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EarthquakeDisplayApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EarthquakeDisplayApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EarthquakeDisplayApp</string>
+			<key>timeStartedRecording</key>
+			<real>579859173.92350602</real>
+			<key>timeStoppedRecording</key>
+			<real>579859175.08161604</real>
+			<key>title</key>
+			<string>Build EarthquakeDisplayApp</string>
+			<key>uniqueIdentifier</key>
+			<string>E2E184AE-B511-43C5-BD92-3B7183298CF3</string>
+		</dict>
+		<key>E564DE3D-9A7C-4AE3-9391-E446FED98950</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E564DE3D-9A7C-4AE3-9391-E446FED98950.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EarthquakeDisplayApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EarthquakeDisplayApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EarthquakeDisplayApp</string>
+			<key>timeStartedRecording</key>
+			<real>579859098.75923204</real>
+			<key>timeStoppedRecording</key>
+			<real>579859099.55920196</real>
+			<key>title</key>
+			<string>Build EarthquakeDisplayApp</string>
+			<key>uniqueIdentifier</key>
+			<string>E564DE3D-9A7C-4AE3-9391-E446FED98950</string>
+		</dict>
+		<key>F8A1DD3D-1AF3-426D-843E-F5B654F73359</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F8A1DD3D-1AF3-426D-843E-F5B654F73359.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EarthquakeDisplayApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EarthquakeDisplayApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EarthquakeDisplayApp</string>
+			<key>timeStartedRecording</key>
+			<real>579863870.98804796</real>
+			<key>timeStoppedRecording</key>
+			<real>579863872.36180305</real>
+			<key>title</key>
+			<string>Build EarthquakeDisplayApp</string>
+			<key>uniqueIdentifier</key>
+			<string>F8A1DD3D-1AF3-426D-843E-F5B654F73359</string>
+		</dict>
+		<key>F8D2E512-C4D4-49DB-A337-EC407A567E1C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F8D2E512-C4D4-49DB-A337-EC407A567E1C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EarthquakeDisplayApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EarthquakeDisplayApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EarthquakeDisplayApp</string>
+			<key>timeStartedRecording</key>
+			<real>579858184.618577</real>
+			<key>timeStoppedRecording</key>
+			<real>579858186.30375004</real>
+			<key>title</key>
+			<string>Build EarthquakeDisplayApp</string>
+			<key>uniqueIdentifier</key>
+			<string>F8D2E512-C4D4-49DB-A337-EC407A567E1C</string>
+		</dict>
+		<key>FB569518-5AFE-4CF0-8527-664A91E42DB1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FB569518-5AFE-4CF0-8527-664A91E42DB1.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EarthquakeDisplayApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EarthquakeDisplayApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EarthquakeDisplayApp</string>
+			<key>timeStartedRecording</key>
+			<real>579859052.73738396</real>
+			<key>timeStoppedRecording</key>
+			<real>579859052.93478096</real>
+			<key>title</key>
+			<string>Build EarthquakeDisplayApp</string>
+			<key>uniqueIdentifier</key>
+			<string>FB569518-5AFE-4CF0-8527-664A91E42DB1</string>
+		</dict>
+		<key>FCA90C17-D660-42CD-842C-1BA4DA1B883B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FCA90C17-D660-42CD-842C-1BA4DA1B883B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EarthquakeDisplayApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EarthquakeDisplayApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EarthquakeDisplayApp</string>
+			<key>timeStartedRecording</key>
+			<real>579857282.38696003</real>
+			<key>timeStoppedRecording</key>
+			<real>579857282.55621302</real>
+			<key>title</key>
+			<string>Build EarthquakeDisplayApp</string>
+			<key>uniqueIdentifier</key>
+			<string>FCA90C17-D660-42CD-842C-1BA4DA1B883B</string>
 		</dict>
 	</dict>
 </dict>

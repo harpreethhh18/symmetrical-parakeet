@@ -14,6 +14,11 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface GeoAPIServerManager : NSObject
 
+#pragma mark - Singleton
++ (instancetype _Nonnull)sharedManager;
+
+#pragma mark - Request Method
+- (void)getEarthquakeSummaryInfoFromGeoServerWithSuccessHandler:(void(^)(NSArray *earthquakeSummary))successhandler failureHandler:(void(^)(NSString *failureInfo))failurehandler;
 
 @end
 
