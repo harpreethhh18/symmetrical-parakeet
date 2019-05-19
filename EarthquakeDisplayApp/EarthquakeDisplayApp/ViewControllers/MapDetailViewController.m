@@ -8,27 +8,44 @@
 
 #import "MapDetailViewController.h"
 #import <MapKit/MapKit.h>
+#import "SummaryViewController.h"
 
-@interface MapDetailViewController ()
+@interface MapDetailViewController () {
+    CLLocationCoordinate2D zoomLocation;
+}
 @property (weak, nonatomic) IBOutlet MKMapView *mapView;
-
 @end
 
 @implementation MapDetailViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
+    
+    [self updateMapViewBasedOnCoordinates];
+
 }
 
-/*
-#pragma mark - Navigation
 
-// In a storyboard-based application, you will often want to do a little preparation before navigation
-- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
-    // Get the new view controller using [segue destinationViewController].
-    // Pass the selected object to the new view controller.
+#pragma mark - Support Methods
+- (void)updateMapViewBasedOnCoordinates {
+    if (self.coordinatesArray.count != 0) {
+        NSDecimalNumber *longitude = [self.coordinatesArray objectAtIndex:0];
+        NSDecimalNumber *latitude = [self.coordinatesArray objectAtIndex:1];
+        zoomLocation.longitude = longitude.doubleValue;
+        zoomLocation.latitude = latitude.doubleValue;
+
+//        MKCoordinateRegion viewRegion = MKCoordinateRegionMakeWithDistance(zoomLocation, 0.5*METERS_PER_MILE, 0.5*METERS_PER_MILE);
+        MKCoordinateRegion viewRegion = MKCoordinateRegionMakeWithDistance(
+                                           zoomLocation, 2000, 2000);
+
+        [_mapView setRegion:[self.mapView regionThatFits:viewRegion] animated:YES];
+        
+        MKPointAnnotation *point = [[MKPointAnnotation alloc] init];
+        point.coordinate = zoomLocation;
+        point.title = @"EarthQuake Location";
+        
+        [self.mapView addAnnotation:point];
+    }
 }
-*/
 
 @end

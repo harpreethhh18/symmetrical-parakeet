@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		yALeVE+MHtWbUsDUpLgrwUjwiw0=
+		KCo/F9UFtkwJygoWNOuyWqnr/X8=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		AaOgjjUpT81286khwynqdYWzbGo=
+		DuXwj/5j/dzUtPuiFUiYfoMlT4c=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -18,23 +18,31 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		RTcjlS5RUuKMb13q/WFSK4ju6Zs=
+		FIx/cuiZU8EHEE6XTV0gZvgoRww=
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		clwEJRVpNhwoWI0uuRUDMS1mwPI=
+		FFBX7isOX1dC9ulZoQmZ8y3IhGE=
+		</data>
+		<key>Base.lproj/Main.storyboardc/I6q-cb-EHL-view-B3g-Nd-8BA.nib</key>
+		<data>
+		fHV0OJql1MgQcAbsOr3P7ngD1cY=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		MDrKFvFWroTb0+KEbQShBcoBvo4=
+		OaBCNJXntoDeAfTRXW7tw4UvhDA=
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<data>
-		c/4sufO4mb0K1QFHvtALze7lg5g=
+		hWIBJ1si/utfKK4bbB7PbFgyF+E=
+		</data>
+		<key>Base.lproj/Main.storyboardc/UIViewController-I6q-cb-EHL.nib</key>
+		<data>
+		SLDNnPzkEz4BSvtV5Ofk+hGfsi8=
 		</data>
 		<key>EarthquakeInfoTableViewCell.nib</key>
 		<data>
-		lm/OaRmHI5VJuwzJeikIxkKfZcM=
+		8J+pUFuHFkgiogUJ3MvtM2BNdSQ=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -59,14 +67,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RJCLIfUs4grCqW7yXBMgnsabzViw8BYUdwUcTLtlSAE=
+			UoiZBrGLjCCiKsa1x8ayQNTo95mwok39IEVMC4dwCuw=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nCDtKT7cB++mta85jNRvf+9jLEkOUOkY060otrBMh44=
+			6lPVXgGrLb3w2081UX6jbN1A906ZnhpF1YsyHkEIGeo=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
@@ -80,35 +88,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GvBeMj0zcQxOgvURmQe8uJ9hrcmwM7Gy+aAMFO35xF4=
+			jqJGvmlz2jQ75AXli7nKUvWY6slOT4lCVqIHeyP3xzM=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VFTiL1hIY91Zxto8P93ghfdlHN5HI8f+BIM9ICUuPzs=
+			sJV44DIFyzTeKy/kcH2Y5YP2DxKREksK/a1zdCts0uI=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/I6q-cb-EHL-view-B3g-Nd-8BA.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			z7rEjqAVrlZwhE8bCluxqXHydhPnXS7kgvIJfrEWQ40=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PpvapAjR62rl6Ym4E6hkTgpKmBICxTaQXeUqcpHmmqQ=
+			wJcT+bW0ZEm3dCrgjxxinbcWY75pEAbAt4McevcTj7Y=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LodagvVFVWySq2t7L+8/3WMBXa2TM3qiSBx7Xpft5XM=
+			a9GQvBqh8YwzFPYLc7n49fCcqsEKB1ZDAK2iNme3sbA=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/UIViewController-I6q-cb-EHL.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YnPl3TO+qgNzxomxMhD2i3dJvuXp4XGQIb/ts6j8Oio=
 			</data>
 		</dict>
 		<key>EarthquakeInfoTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sPFAZzQf172BmQdRyXuST2IXEkooyhc9DoyP870BDv4=
+			h79n0PAWLDji6k+N3uC4FdSg65oQOeEvpjrVBVvsDts=
 			</data>
 		</dict>
 		<key>LICENSE</key>

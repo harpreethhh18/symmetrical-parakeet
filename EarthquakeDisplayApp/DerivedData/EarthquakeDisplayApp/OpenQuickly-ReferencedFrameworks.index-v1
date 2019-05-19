@@ -6,12 +6,12 @@
 	<string>CoreServices</string>
 	<string>CoreGraphics</string>
 	<string>WatchKit</string>
-	<string>Security</string>
+	<string>MapKit</string>
 	<string>netinet</string>
 	<string>netinet6</string>
-	<string>MapKit</string>
-	<string>MobileCoreServices</string>
 	<string>XCTest</string>
+	<string>MobileCoreServices</string>
+	<string>Security</string>
 	<string>objc</string>
 	<string>Cocoa</string>
 	<string>UIKit</string>

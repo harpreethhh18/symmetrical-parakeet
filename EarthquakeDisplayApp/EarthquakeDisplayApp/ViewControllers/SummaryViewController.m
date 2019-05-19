@@ -10,13 +10,15 @@
 #import "GeoAPIServerManager.h"
 #import "EarthquakeInfoTableViewCell.h"
 #import "EarthquakeSummaryModel.h"
+#import "MapDetailViewController.h"
 
-#define kCellHeight 60
+#define kCellHeight 183
 
 @interface SummaryViewController () <UITableViewDataSource, UITableViewDelegate> {
     EarthquakeSummaryModel *summaryModel;
 }
 
+@property (strong, nonatomic) NSArray *coordinatesArray;
 @property (strong, nonatomic) IBOutlet UITableView *earthquakeInfoTableView;
 @property (strong, nonatomic) NSArray *earthquakeSummaryArray;
 @end
@@ -29,6 +31,9 @@
     self.earthquakeInfoTableView.dataSource  = self;
     self.earthquakeInfoTableView.frame = CGRectMake(0, 0, self.view.frame.size.width, self.view.frame.size.height);
     self.earthquakeInfoTableView.bounces = NO;
+    
+    NSString *className = NSStringFromClass([EarthquakeInfoTableViewCell class]);
+    [self.earthquakeInfoTableView registerNib:[UINib nibWithNibName:className bundle:nil] forCellReuseIdentifier:className];
 }
 
 - (void)viewWillAppear:(BOOL)animated {
@@ -68,22 +73,37 @@
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
 {
-    static NSString *CellIdentifier = @"Cell";
+    NSLog(@"%@",NSStringFromClass([EarthquakeInfoTableViewCell class]));
+    EarthquakeInfoTableViewCell *infoCell = [self.earthquakeInfoTableView dequeueReusableCellWithIdentifier:NSStringFromClass([EarthquakeInfoTableViewCell class]) forIndexPath:indexPath];
     
-    EarthquakeInfoTableViewCell *infoCell = [self.earthquakeInfoTableView dequeueReusableCellWithIdentifier:CellIdentifier];
-    if (infoCell == nil) {
-        infoCell = [[EarthquakeInfoTableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:CellIdentifier];
-    }
+    infoCell.selectionStyle = UITableViewCellSelectionStyleDefault;
+    
+    [infoCell.contentView setNeedsLayout];
+    [infoCell.contentView layoutIfNeeded];
+    
+    infoCell.frame = CGRectMake(0, 0, self.view.frame.size.width, 183);
     
     NSError *error;
     summaryModel = [[EarthquakeSummaryModel alloc] initWithDictionary:[self.earthquakeSummaryArray objectAtIndex:indexPath.row] error:&error];
+    infoCell.placeLabel.text = summaryModel.place;
+    infoCell.typeLabel.text = summaryModel.type;
+    infoCell.magnitudeLabel.text = summaryModel.magnitude;
+    infoCell.timeLabel.text = summaryModel.timeStamp;
+    
+    self.coordinatesArray = summaryModel.coordinates;
     
     return infoCell;
 }
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
-    [self performSegueWithIdentifier:@"EarthquakeDetailMap" sender:nil];
-    
+    [self performSegueWithIdentifier:@"showDetailedMap" sender:tableView];
 }
 
+- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
+    // Get the new view controller using [segue destinationViewController].
+    // Pass the selected object to the new view controller.
+    MapDetailViewController *mapViewController = [segue destinationViewController];
+    // Do any additional setup after loading the view.
+    mapViewController.coordinatesArray = self.coordinatesArray;
+}
 @end

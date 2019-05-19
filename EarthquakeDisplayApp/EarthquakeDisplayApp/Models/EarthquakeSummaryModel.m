@@ -26,6 +26,11 @@ NSString *const SummaryModel_geometry_coordinates_key = @"coordinates";
     return typeStr.length ? typeStr : @"";
 }
 
+- (NSString *)magnitude {
+    NSDecimalNumber *magnitude = [self.properties objectForKey:SummaryModel_properties_magnitude_key];
+    NSString *magnitudeStr = magnitude.stringValue;
+    return magnitudeStr.length ? [NSString stringWithFormat:@"Magnitude: %@",magnitudeStr] : @"";
+}
 - (NSString *)timeStamp {
     NSNumber *dateInMilliseconds = [self.properties objectForKey:SummaryModel_properties_time_key];
     if ([dateInMilliseconds isKindOfClass:[NSNull class]]) {
@@ -33,12 +38,13 @@ NSString *const SummaryModel_geometry_coordinates_key = @"coordinates";
     }
     NSDate *date = [NSDate dateWithTimeIntervalSince1970:(dateInMilliseconds.intValue / 1000.0)];
     NSDateFormatter *formatter = [[NSDateFormatter alloc] init];
-    [formatter setDateFormat:@"yyyy"];
+    [formatter setDateFormat:@"yyyy-MM-dd h:mm a"];
     NSString *timeStamptStr = [formatter stringFromDate:date];
     return timeStamptStr;
 }
 
-- (NSDictionary *)coordinates {
+- (NSArray *)coordinates {
     return [self.geometry objectForKey:SummaryModel_geometry_coordinates_key];
 }
+
 @end

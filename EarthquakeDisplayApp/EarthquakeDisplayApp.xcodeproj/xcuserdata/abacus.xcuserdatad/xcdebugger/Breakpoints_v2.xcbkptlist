@@ -9,13 +9,29 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "EarthquakeDisplayApp/ViewControllers/SummaryViewController.m"
-            timestampString = "579912443.670458"
+            filePath = "EarthquakeDisplayApp/ViewControllers/MapDetailViewController.m"
+            timestampString = "579962583.741372"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "79"
-            endingLineNumber = "79"
-            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "-updateMapViewBasedOnCoordinates"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EarthquakeDisplayApp/Models/EarthquakeSummaryModel.m"
+            timestampString = "579962583.7417721"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "-timeStamp"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

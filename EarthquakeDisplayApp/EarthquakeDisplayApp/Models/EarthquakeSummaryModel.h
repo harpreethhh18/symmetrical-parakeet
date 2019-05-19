@@ -19,6 +19,6 @@
 - (NSString *)type;
 - (NSString *)timeStamp;
 - (NSString *)magnitude;
-- (NSDictionary *)coordinates;
+- (NSArray *)coordinates;
 @end
 

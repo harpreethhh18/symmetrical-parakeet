@@ -10,5 +10,6 @@
 
 @interface MapDetailViewController : UIViewController
 
+@property (strong, nonatomic) NSArray *coordinatesArray;
 @end
 

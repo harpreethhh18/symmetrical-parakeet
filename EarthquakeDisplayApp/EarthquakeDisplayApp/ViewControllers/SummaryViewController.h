@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#define EarthquakeInfoTableViewCellIdentifier @"EarthquakeInfoTableViewCell"
 
 @interface SummaryViewController : UIViewController
 
