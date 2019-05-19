@@ -34,14 +34,14 @@
                         <nil key="highlightedColor"/>
                     </label>
                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Time" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fMT-yC-uh1" userLabel="Time Label">
-                        <rect key="frame" x="10" y="116" width="227" height="50"/>
+                        <rect key="frame" x="10" y="116" width="195" height="50"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <fontDescription key="fontDescription" type="system" pointSize="18"/>
                         <nil key="textColor"/>
                         <nil key="highlightedColor"/>
                     </label>
                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Magnitude" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="g4t-Lu-tGx">
-                        <rect key="frame" x="245" y="120" width="126" height="50"/>
+                        <rect key="frame" x="213" y="120" width="161" height="50"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <fontDescription key="fontDescription" type="system" pointSize="18"/>
                         <color key="textColor" red="0.86542505025863647" green="0.292510986328125" blue="0.06296413391828537" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -60,7 +60,7 @@
                 <outlet property="timeLabel" destination="fMT-yC-uh1" id="m77-6W-kCu"/>
                 <outlet property="typeLabel" destination="IDG-lN-yQB" id="5cY-QS-MEq"/>
             </connections>
-            <point key="canvasLocation" x="-239.13043478260872" y="3.683035714285714"/>
+            <point key="canvasLocation" x="-113.04347826086958" y="1.6741071428571428"/>
         </tableViewCell>
     </objects>
     <resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FormatVersion</key>
+	<string>1.1</string>
+	<key>TestableSummaries</key>
+	<array>
+		<dict>
+			<key>DiagnosticsDirectory</key>
+			<string>EarthquakeDisplayAppTests-4732CDEF-06D9-4DB9-A00D-DDC53D0A72E9</string>
+			<key>FailureSummaries</key>
+			<array>
+				<dict>
+					<key>LineNumber</key>
+					<integer>0</integer>
+					<key>Message</key>
+					<string>Test operation was canceled.</string>
+					<key>PerformanceFailure</key>
+					<false/>
+				</dict>
+			</array>
+			<key>ProjectPath</key>
+			<string>EarthquakeDisplayApp.xcodeproj</string>
+			<key>TargetName</key>
+			<string>EarthquakeDisplayAppTests</string>
+			<key>TestKind</key>
+			<string>app hosted</string>
+			<key>TestName</key>
+			<string>EarthquakeDisplayAppTests</string>
+			<key>TestObjectClass</key>
+			<string>IDESchemeActionTestableSummary</string>
+			<key>Tests</key>
+			<array/>
+		</dict>
+	</array>
+</dict>
+</plist>

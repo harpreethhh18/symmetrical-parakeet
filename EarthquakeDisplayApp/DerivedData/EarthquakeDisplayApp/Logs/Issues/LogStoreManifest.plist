@@ -5,34 +5,7 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict>
-		<key>3EDCA79E-C587-4C68-88B2-44978BC6C332</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
-			<key>fileName</key>
-			<string>3EDCA79E-C587-4C68-88B2-44978BC6C332.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>signature</key>
-			<string>EarthquakeDisplayApp-fpqcbtbkdujgrggeyxqffimeoavb</string>
-			<key>timeStartedRecording</key>
-			<real>579962578.28125</real>
-			<key>timeStoppedRecording</key>
-			<real>579962580.38340902</real>
-			<key>title</key>
-			<string>Build target EarthquakeDisplayApp</string>
-			<key>uniqueIdentifier</key>
-			<string>3EDCA79E-C587-4C68-88B2-44978BC6C332</string>
-		</dict>
-	</dict>
+	<dict/>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>

@@ -1,0 +1,5 @@
+objc[4238]: Class GeoAPIBaseResponseModel is implemented in both /Users/rick/Library/Developer/CoreSimulator/Devices/DC11B87D-1C23-4E47-9170-A11521A6805B/data/Containers/Bundle/Application/95C9C148-5DD3-4DEB-B854-993B6A310CD4/EarthquakeDisplayApp.app/EarthquakeDisplayApp (0x106bad158) and /Users/rick/Documents/GitHub/symmetrical-parakeet/EarthquakeDisplayApp/Build/Products/Debug-iphonesimulator/EarthquakeDisplayApp.app/PlugIns/EarthquakeDisplayAppTests.xctest/EarthquakeDisplayAppTests (0x1207794e8). One of the two will be used. Which one is undefined.
+
+
+*** If you believe this error represents a bug, please attach the result bundle at /Users/rick/Documents/GitHub/symmetrical-parakeet/EarthquakeDisplayApp/DerivedData/EarthquakeDisplayApp/Logs/Test/Test-EarthquakeDisplayApp-2019.05.20_05-52-15-+1000.xcresult
+

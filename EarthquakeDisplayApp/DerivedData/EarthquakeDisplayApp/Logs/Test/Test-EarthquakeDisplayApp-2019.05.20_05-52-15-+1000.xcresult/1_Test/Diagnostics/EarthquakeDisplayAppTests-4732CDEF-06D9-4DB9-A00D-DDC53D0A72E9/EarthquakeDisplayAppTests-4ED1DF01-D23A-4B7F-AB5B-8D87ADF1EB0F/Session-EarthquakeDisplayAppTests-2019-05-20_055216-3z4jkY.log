@@ -1,0 +1,78 @@
+05:52:16.376 Xcode[287:2474] Beginning test session EarthquakeDisplayAppTests-AB1487CD-B3F3-4C26-8367-A1A6574302F5 at 2019-05-20 05:52:16.376 with Xcode 10E1001 on target <DVTiPhoneSimulator: 0x7f9303916d10> {
+		SimDevice: iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)
+} (12.2 (16E226))
+05:52:16.376 Xcode[287:2474] Launching with Xcode.DebuggerFoundation.Launcher.LLDB
+05:52:16.380 Xcode[287:2474] Test standard output and standard error is at /Users/rick/Documents/GitHub/symmetrical-parakeet/EarthquakeDisplayApp/DerivedData/EarthquakeDisplayApp/Logs/Test/Test-EarthquakeDisplayApp-2019.05.20_05-52-15-+1000.xcresult/1_Test/Diagnostics/EarthquakeDisplayAppTests-4732CDEF-06D9-4DB9-A00D-DDC53D0A72E9/EarthquakeDisplayAppTests-4ED1DF01-D23A-4B7F-AB5B-8D87ADF1EB0F/StandardOutputAndStandardError.txt
+05:52:16.494 Xcode[287:2474] Sending notification: NSConcreteNotification 0x7f92e59e7aa0 {name = com.apple.iphonesimulator.startSession; userInfo = {
+    deviceUDID = "DC11B87D-1C23-4E47-9170-A11521A6805B";
+}}
+05:52:16.495 Xcode[287:125531] 📱<DVTiPhoneSimulator (0x7f9303916d10), iPhone X, unknown class, 12.2 (16E226), DC11B87D-1C23-4E47-9170-A11521A6805B> claim LaunchSessionClaim_0x7f92d0acf360 on simulator was issued, 3 claims exist.
+05:52:16.505 Xcode[287:2474] Setting up test runner session
+05:52:16.505 Xcode[287:2474] Registering/updating daemon-based crash report observer for process names (
+    SpringBoard,
+    EarthquakeDisplayApp,
+    backboardd,
+    xctest
+)
+05:52:16.505 Xcode[287:125584] Sim iPhone X: Unregistering for sim device notification with token 94
+05:52:16.505 Xcode[287:125584] Calling -[SimDevice getenv:error:] for TESTMANAGERD_SIM_SOCK
+05:52:16.506 Xcode[287:125584] Sim iPhone X has testmanagerd socket at /private/tmp/com.apple.launchd.ulGzy2tcbG/com.apple.testmanagerd.unix-domain.socket
+05:52:16.506 Xcode[287:125584] Validating test connection socket path (/private/tmp/com.apple.launchd.ulGzy2tcbG/com.apple.testmanagerd.unix-domain.socket)
+05:52:16.506 Xcode[287:125584] Constructing transport for test connection socket
+05:52:16.506 Xcode[287:125584] Connected socket 97 to testmanagerd for Sim iPhone X
+05:52:16.506 Xcode[287:124770] Received connection for test runner session
+05:52:16.506 Xcode[287:124770] Listening for proxy connection request from the test bundle
+05:52:16.507 Xcode[287:124770] Initiating session with identifier: AB1487CD-B3F3-4C26-8367-A1A6574302F5
+05:52:16.520 Xcode[287:125572] Got reply to session initiation request with identifier AB1487CD-B3F3-4C26-8367-A1A6574302F5 (result:error): 29: (null)
+05:52:16.613 Xcode[287:2474] Test runner session acquired connection.
+05:52:16.613 Xcode[287:2474] Waiting for test process to launch.
+05:52:16.614 Xcode[287:2474] Finished requesting crash reports. Continuing with testing.
+05:52:16.676 Xcode[287:2474] Launch session started.
+05:52:16.725 Xcode[287:2474] Sending notification: NSConcreteNotification 0x7f92e4681300 {name = com.apple.iphonesimulator.startSession; userInfo = {
+    deviceUDID = "DC11B87D-1C23-4E47-9170-A11521A6805B";
+}}
+05:52:16.726 Xcode[287:124770] 📱<DVTiPhoneSimulator (0x7f9303916d10), iPhone X, unknown class, 12.2 (16E226), DC11B87D-1C23-4E47-9170-A11521A6805B> claim LaunchSessionClaim_0x7f92d0acf360 on simulator was issued, 3 claims exist.
+05:52:16.740 Xcode[287:2474] Sending notification: NSConcreteNotification 0x7f92e3cee5a0 {name = com.apple.iphonesimulator.startSession; userInfo = {
+    deviceUDID = "DC11B87D-1C23-4E47-9170-A11521A6805B";
+}}
+05:52:16.740 Xcode[287:125531] 📱<DVTiPhoneSimulator (0x7f9303916d10), iPhone X, unknown class, 12.2 (16E226), DC11B87D-1C23-4E47-9170-A11521A6805B> claim LaunchSessionClaim_0x7f92d0acf360 on simulator was issued, 3 claims exist.
+05:52:16.740 Xcode[287:125531] DC11B87D-1C23-4E47-9170-A11521A6805B: Registered for sim device notification, got token 97
+05:52:16.740 Xcode[287:124770] DC11B87D-1C23-4E47-9170-A11521A6805B: Unregistering for sim device notification with token 97
+05:52:16.741 Xcode[287:125527] DC11B87D-1C23-4E47-9170-A11521A6805B: Installing app at path: /Users/rick/Documents/GitHub/symmetrical-parakeet/EarthquakeDisplayApp/Build/Products/Debug-iphonesimulator/EarthquakeDisplayApp.app and options: (null)
+05:52:17.046 Xcode[287:125527] DC11B87D-1C23-4E47-9170-A11521A6805B: Installed app at path: /Users/rick/Documents/GitHub/symmetrical-parakeet/EarthquakeDisplayApp/Build/Products/Debug-iphonesimulator/EarthquakeDisplayApp.app and options: (null)
+05:52:17.047 Xcode[287:125527] DC11B87D-1C23-4E47-9170-A11521A6805B: Launching app with identifier: com.harpreet.EarthquakeDisplayApp and options: {
+    "activate_suspended" = 0;
+    arguments =     (
+        "-NSTreatUnknownArgumentsAsOpen",
+        NO,
+        "-ApplePersistenceIgnoreState",
+        YES
+    );
+    environment =     {
+        "CA_ASSERT_MAIN_THREAD_TRANSACTIONS" = 0;
+        "CA_DEBUG_TRANSACTIONS" = 0;
+        "DYLD_FRAMEWORK_PATH" = "/Users/rick/Documents/GitHub/symmetrical-parakeet/EarthquakeDisplayApp/Build/Products/Debug-iphonesimulator:";
+        "DYLD_INSERT_LIBRARIES" = "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/lib/libXCTestBundleInject.dylib:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/lib/libMainThreadChecker.dylib";
+        "DYLD_LIBRARY_PATH" = "/Users/rick/Documents/GitHub/symmetrical-parakeet/EarthquakeDisplayApp/Build/Products/Debug-iphonesimulator";
+        "MTC_CRASH_ON_REPORT" = 1;
+        NSUnbufferedIO = YES;
+        "OS_ACTIVITY_DT_MODE" = YES;
+        "SQLITE_ENABLE_THREAD_ASSERTIONS" = 1;
+        XCInjectBundleInto = "/Users/rick/Documents/GitHub/symmetrical-parakeet/EarthquakeDisplayApp/Build/Products/Debug-iphonesimulator/EarthquakeDisplayApp.app/EarthquakeDisplayApp";
+        XCTestConfigurationFilePath = "/Users/rick/Documents/GitHub/symmetrical-parakeet/EarthquakeDisplayApp/DerivedData/EarthquakeDisplayApp/Logs/Test/Test-EarthquakeDisplayApp-2019.05.20_05-52-15-+1000.xcresult/1_Test/Diagnostics/EarthquakeDisplayAppTests-4732CDEF-06D9-4DB9-A00D-DDC53D0A72E9/EarthquakeDisplayAppTests-4ED1DF01-D23A-4B7F-AB5B-8D87ADF1EB0F/LaunchSessions/AB1487CD-B3F3-4C26-8367-A1A6574302F5/remote-container/tmp/EarthquakeDisplayAppTests-AB1487CD-B3F3-4C26-8367-A1A6574302F5.xctestconfiguration";
+        "__XCODE_BUILT_PRODUCTS_DIR_PATHS" = "/Users/rick/Documents/GitHub/symmetrical-parakeet/EarthquakeDisplayApp/Build/Products/Debug-iphonesimulator";
+        "__XPC_DYLD_FRAMEWORK_PATH" = "/Users/rick/Documents/GitHub/symmetrical-parakeet/EarthquakeDisplayApp/Build/Products/Debug-iphonesimulator";
+        "__XPC_DYLD_LIBRARY_PATH" = "/Users/rick/Documents/GitHub/symmetrical-parakeet/EarthquakeDisplayApp/Build/Products/Debug-iphonesimulator";
+    };
+    stderr = "/dev/ttys000";
+    stdout = "/dev/ttys000";
+    "wait_for_debugger" = 1;
+}
+05:52:19.342 Xcode[287:125531] DC11B87D-1C23-4E47-9170-A11521A6805B: Launched app with identifier: com.harpreet.EarthquakeDisplayApp (pid = 4238)
+05:52:19.342 Xcode[287:125531] 📱<DVTiPhoneSimulator (0x7f9303916d10), iPhone X, unknown class, 12.2 (16E226), DC11B87D-1C23-4E47-9170-A11521A6805B> tracking pid 4238
+05:52:19.343 Xcode[287:125531] 📱<DVTiPhoneSimulator (0x7f9303916d10), iPhone X, unknown class, 12.2 (16E226), DC11B87D-1C23-4E47-9170-A11521A6805B> checking to see if pid 4238 is valid: kill(pid, 0) = 0 (YES, it's still running)
+05:52:19.354 Xcode[287:2474] Test process runnable PID is 4238.
+05:52:20.289 Xcode[287:2474] Waiting for test process to check in..., will wait up to 120s
+objc[4238]: Class GeoAPIBaseResponseModel is implemented in both /Users/rick/Library/Developer/CoreSimulator/Devices/DC11B87D-1C23-4E47-9170-A11521A6805B/data/Containers/Bundle/Application/95C9C148-5DD3-4DEB-B854-993B6A310CD4/EarthquakeDisplayApp.app/EarthquakeDisplayApp (0x106bad158) and /Users/rick/Documents/GitHub/symmetrical-parakeet/EarthquakeDisplayApp/Build/Products/Debug-iphonesimulator/EarthquakeDisplayApp.app/PlugIns/EarthquakeDisplayAppTests.xctest/EarthquakeDisplayAppTests (0x1207794e8). One of the two will be used. Which one is undefined.
+05:52:20.918 Xcode[287:2474] Test operation failure: Test operation was canceled.
+05:52:20.918 Xcode[287:2474] _finishWithError:Error Domain=IDETestOperationsObserverErrorDomain Code=14 "Test operation was canceled." UserInfo={NSLocalizedDescription=Test operation was canceled.}

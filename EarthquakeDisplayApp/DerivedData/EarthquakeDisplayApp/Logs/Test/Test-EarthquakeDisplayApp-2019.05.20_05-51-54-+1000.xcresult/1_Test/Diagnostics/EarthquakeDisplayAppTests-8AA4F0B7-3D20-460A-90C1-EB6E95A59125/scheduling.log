@@ -1,0 +1,5 @@
+2019-05-19 19:51:55 +0000: Received worker from worker provider: 0x7f92d3454770 [0: iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B)]
+2019-05-19 19:52:00 +0000: Worker 0x7f92d3454770 [4217: iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B)] finished bootstrapping
+2019-05-19 19:52:00 +0000: Parallelization disabled; test execution driven by the test process
+2019-05-19 19:52:00 +0000: Worker 0x7f92d3454770 [4217: iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B)] finished successfully
+2019-05-19 19:52:00 +0000: Finished executing tests (cancelled: No)

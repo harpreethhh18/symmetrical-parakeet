@@ -1,0 +1,12 @@
+objc[4217]: Class GeoAPIBaseResponseModel is implemented in both /Users/rick/Library/Developer/CoreSimulator/Devices/DC11B87D-1C23-4E47-9170-A11521A6805B/data/Containers/Bundle/Application/2219F55C-08B6-473D-BC1A-D9FF8E7C741E/EarthquakeDisplayApp.app/EarthquakeDisplayApp (0x1025db158) and /Users/rick/Documents/GitHub/symmetrical-parakeet/EarthquakeDisplayApp/Build/Products/Debug-iphonesimulator/EarthquakeDisplayApp.app/PlugIns/EarthquakeDisplayAppTests.xctest/EarthquakeDisplayAppTests (0x11c1a74e8). One of the two will be used. Which one is undefined.
+Test Suite 'Selected tests' started at 2019-05-20 05:52:00.645
+Test Suite 'EarthquakeDisplayAppTests.xctest' started at 2019-05-20 05:52:00.645
+Test Suite 'EarthquakeDisplayAppTests' started at 2019-05-20 05:52:00.646
+Test Case '-[EarthquakeDisplayAppTests testGeoAPIModel]' started.
+Test Case '-[EarthquakeDisplayAppTests testGeoAPIModel]' passed (0.002 seconds).
+Test Suite 'EarthquakeDisplayAppTests' passed at 2019-05-20 05:52:00.648.
+	 Executed 1 test, with 0 failures (0 unexpected) in 0.002 (0.003) seconds
+Test Suite 'EarthquakeDisplayAppTests.xctest' passed at 2019-05-20 05:52:00.649.
+	 Executed 1 test, with 0 failures (0 unexpected) in 0.002 (0.003) seconds
+Test Suite 'Selected tests' passed at 2019-05-20 05:52:00.649.
+	 Executed 1 test, with 0 failures (0 unexpected) in 0.002 (0.004) seconds

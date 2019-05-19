@@ -1,0 +1,4 @@
+2019-05-19 18:55:30 +0000: Received worker from worker provider: 0x7f92ed0a88b0 [0: iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B)]
+2019-05-19 18:55:34 +0000: Test operation cancelled
+2019-05-19 18:55:34 +0000: Worker 0x7f92ed0a88b0 [0: iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B)] finished with error: Error Domain=IDETestOperationsObserverErrorDomain Code=14 "Test operation was canceled." UserInfo={NSLocalizedDescription=Test operation was canceled., NSLocalizedRecoverySuggestion=If you believe this error represents a bug, please attach the result bundle at /Users/rick/Documents/GitHub/symmetrical-parakeet/EarthquakeDisplayApp/DerivedData/EarthquakeDisplayApp/Logs/Test/Test-EarthquakeDisplayApp-2019.05.20_04-55-28-+1000.xcresult}
+2019-05-19 18:55:34 +0000: Finished executing tests (cancelled: Yes)

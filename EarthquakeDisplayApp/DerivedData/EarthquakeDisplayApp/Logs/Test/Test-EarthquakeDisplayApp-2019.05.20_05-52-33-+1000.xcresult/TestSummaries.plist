@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FormatVersion</key>
+	<string>1.1</string>
+	<key>TestableSummaries</key>
+	<array>
+		<dict>
+			<key>DiagnosticsDirectory</key>
+			<string>EarthquakeDisplayAppTests-6BD0631F-DAE9-43DE-A65B-723339D4B944</string>
+			<key>ProjectPath</key>
+			<string>EarthquakeDisplayApp.xcodeproj</string>
+			<key>TargetName</key>
+			<string>EarthquakeDisplayAppTests</string>
+			<key>TestKind</key>
+			<string>app hosted</string>
+			<key>TestName</key>
+			<string>EarthquakeDisplayAppTests</string>
+			<key>TestObjectClass</key>
+			<string>IDESchemeActionTestableSummary</string>
+			<key>Tests</key>
+			<array>
+				<dict>
+					<key>Duration</key>
+					<real>0.005389094352722168</real>
+					<key>Subtests</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<real>0.0041619539260864258</real>
+							<key>Subtests</key>
+							<array>
+								<dict>
+									<key>Duration</key>
+									<real>0.0032629966735839844</real>
+									<key>Subtests</key>
+									<array>
+										<dict>
+											<key>Duration</key>
+											<real>0.0022490024566650391</real>
+											<key>TestIdentifier</key>
+											<string>EarthquakeDisplayAppTests/testGeoAPIModel</string>
+											<key>TestName</key>
+											<string>testGeoAPIModel</string>
+											<key>TestObjectClass</key>
+											<string>IDESchemeActionTestSummary</string>
+											<key>TestStatus</key>
+											<string>Success</string>
+											<key>TestSummaryGUID</key>
+											<string>0E93F37B-13DF-489A-8A99-2A128815E144</string>
+										</dict>
+									</array>
+									<key>TestIdentifier</key>
+									<string>EarthquakeDisplayAppTests</string>
+									<key>TestName</key>
+									<string>EarthquakeDisplayAppTests</string>
+									<key>TestObjectClass</key>
+									<string>IDESchemeActionTestSummaryGroup</string>
+								</dict>
+							</array>
+							<key>TestIdentifier</key>
+							<string>EarthquakeDisplayAppTests.xctest</string>
+							<key>TestName</key>
+							<string>EarthquakeDisplayAppTests.xctest</string>
+							<key>TestObjectClass</key>
+							<string>IDESchemeActionTestSummaryGroup</string>
+						</dict>
+					</array>
+					<key>TestIdentifier</key>
+					<string>Selected tests</string>
+					<key>TestName</key>
+					<string>Selected tests</string>
+					<key>TestObjectClass</key>
+					<string>IDESchemeActionTestSummaryGroup</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

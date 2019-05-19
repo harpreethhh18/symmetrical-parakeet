@@ -1,0 +1,467 @@
+04:55:30.609 Xcode[287:2474] Beginning test session EarthquakeDisplayAppTests-E51F5992-F3DC-4699-B24C-15116B27BECB at 2019-05-20 04:55:30.609 with Xcode 10E1001 on target <DVTiPhoneSimulator: 0x7f9303916d10> {
+		SimDevice: iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Shutdown)
+} (12.2 (16E226))
+04:55:30.610 Xcode[287:2474] Launching with Xcode.DebuggerFoundation.Launcher.LLDB
+04:55:30.612 Xcode[287:2474] Test standard output and standard error is at /Users/rick/Documents/GitHub/symmetrical-parakeet/EarthquakeDisplayApp/DerivedData/EarthquakeDisplayApp/Logs/Test/Test-EarthquakeDisplayApp-2019.05.20_04-55-28-+1000.xcresult/1_Test/Diagnostics/EarthquakeDisplayAppTests-C917CF37-63D2-470A-99C7-D42DFE8E3A86/EarthquakeDisplayAppTests-F7442D9E-7833-4F13-B300-F23944AF1B8E/StandardOutputAndStandardError.txt
+04:55:30.700 Xcode[287:98115] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.703 Xcode[287:2474] DC11B87D-1C23-4E47-9170-A11521A6805B: Received sim device notification: {
+    notification = "availableDevices_changed";
+}
+04:55:30.703 Xcode[287:2474] DC11B87D-1C23-4E47-9170-A11521A6805B: Received sim device notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.703 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.703 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.703 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.703 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.703 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.704 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.704 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.704 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.704 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.704 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.704 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.704 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.704 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.704 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.704 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.704 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.704 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.704 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.704 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.704 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.704 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.704 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.704 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.705 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.705 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.705 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.705 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.705 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.705 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.705 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.705 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.705 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.705 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.705 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+04:55:30.778 Xcode[287:2474] DC11B87D-1C23-4E47-9170-A11521A6805B: Received sim device notification: {
+    notification = "availableDevices_changed";
+}
+04:55:30.779 Xcode[287:2474] DC11B87D-1C23-4E47-9170-A11521A6805B: Received sim device notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.779 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.779 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.780 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.780 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.780 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.780 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.780 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.780 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.780 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.780 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.780 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.780 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.780 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.780 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.780 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.780 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.780 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.780 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.780 Xcode[287:98116] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.780 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.780 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.781 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.781 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.781 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.781 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.781 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.781 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.781 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.781 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.781 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.781 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.781 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.781 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.781 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:30.781 Xcode[287:2474] /Users/rick/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone X (DC11B87D-1C23-4E47-9170-A11521A6805B, iOS 12.2, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+04:55:31.180 Xcode[287:2474] Sending notification: NSConcreteNotification 0x7f93076d35f0 {name = com.apple.iphonesimulator.startSession; userInfo = {
+    deviceUDID = "DC11B87D-1C23-4E47-9170-A11521A6805B";
+}}
+04:55:31.181 Xcode[287:98106] 📱<DVTiPhoneSimulator (0x7f9303916d10), iPhone X, unknown class, 12.2 (16E226), DC11B87D-1C23-4E47-9170-A11521A6805B> claim LaunchSessionClaim_0x7f92f9f95230 on simulator was issued, 2 claims exist.
+04:55:31.186 Xcode[287:2474] Setting up test runner session
+04:55:31.186 Xcode[287:98106] Sim iPhone X: Unregistering for sim device notification with token 77
+04:55:31.186 Xcode[287:98106] Calling -[SimDevice getenv:error:] for TESTMANAGERD_SIM_SOCK
+04:55:31.187 Xcode[287:2474] Registering/updating daemon-based crash report observer for process names (
+    SpringBoard,
+    EarthquakeDisplayApp,
+    backboardd,
+    xctest
+)
+04:55:31.187 Xcode[287:98106] Sim iPhone X has testmanagerd socket at /private/tmp/com.apple.launchd.ulGzy2tcbG/com.apple.testmanagerd.unix-domain.socket
+04:55:31.187 Xcode[287:98106] Validating test connection socket path (/private/tmp/com.apple.launchd.ulGzy2tcbG/com.apple.testmanagerd.unix-domain.socket)
+04:55:31.187 Xcode[287:98106] Constructing transport for test connection socket
+04:55:31.187 Xcode[287:98106] Connected socket 73 to testmanagerd for Sim iPhone X
+04:55:31.187 Xcode[287:98106] Received connection for test runner session
+04:55:31.187 Xcode[287:98106] Listening for proxy connection request from the test bundle
+04:55:31.188 Xcode[287:98106] Initiating session with identifier: E51F5992-F3DC-4699-B24C-15116B27BECB
+04:55:31.190 Xcode[287:2474] Test runner session acquired connection.
+04:55:31.191 Xcode[287:2474] Waiting for test process to launch.
+04:55:34.145 Xcode[287:2474] Test operation failure: Test operation was canceled.
+04:55:34.145 Xcode[287:2474] _finishWithError:Error Domain=IDETestOperationsObserverErrorDomain Code=14 "Test operation was canceled." UserInfo={NSLocalizedDescription=Test operation was canceled.}

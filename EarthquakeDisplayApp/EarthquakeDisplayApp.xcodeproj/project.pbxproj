@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		441F3B7C2291DDED00E752A5 /* GeoAPIBaseResponseModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 445444C522900406009E7ECA /* GeoAPIBaseResponseModel.m */; };
 		4427F3652290B5C500BBD5C4 /* EarthquakeSummaryModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 4427F3642290B5C500BBD5C4 /* EarthquakeSummaryModel.m */; };
 		4427F3702290BEE000BBD5C4 /* EarthquakeInfoTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4427F36A2290BEE000BBD5C4 /* EarthquakeInfoTableViewCell.xib */; };
 		4427F3712290BEE000BBD5C4 /* EarthquakeInfoTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4427F36C2290BEE000BBD5C4 /* EarthquakeInfoTableViewCell.m */; };
@@ -578,6 +579,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				441F3B7C2291DDED00E752A5 /* GeoAPIBaseResponseModel.m in Sources */,
 				44544408228F6242009E7ECA /* EarthquakeDisplayAppTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
