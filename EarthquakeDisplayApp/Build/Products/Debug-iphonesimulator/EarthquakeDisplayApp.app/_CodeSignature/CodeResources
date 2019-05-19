@@ -4,9 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Assets.car</key>
+		<data>
+		yALeVE+MHtWbUsDUpLgrwUjwiw0=
+		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		CoGE2xaZOvWvR8UiX0ToqzcKT5Q=
+		AaOgjjUpT81286khwynqdYWzbGo=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -14,11 +18,11 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		pgCEXM1VvawmgLptI+u3jVm9lSA=
+		RTcjlS5RUuKMb13q/WFSK4ju6Zs=
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		q5mrN5QxzVopGMjQ1vpocgKCpAc=
+		clwEJRVpNhwoWI0uuRUDMS1mwPI=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -26,11 +30,11 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<data>
-		ZpqxCm0/1GoKL6NEiOXB3WUmlJc=
+		c/4sufO4mb0K1QFHvtALze7lg5g=
 		</data>
 		<key>EarthquakeInfoTableViewCell.nib</key>
 		<data>
-		Cs/zUYPc1uf+kL5sVeIw4bbQbM0=
+		lm/OaRmHI5VJuwzJeikIxkKfZcM=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -51,11 +55,18 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Assets.car</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RJCLIfUs4grCqW7yXBMgnsabzViw8BYUdwUcTLtlSAE=
+			</data>
+		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HrAuT1b740vvHz+v7dO7ktqOq5Vrzn8TKRtjOrwLurM=
+			nCDtKT7cB++mta85jNRvf+9jLEkOUOkY060otrBMh44=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
@@ -69,14 +80,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sygkG9XpjEVtqaUvO1zEi0JDKe2IqUnYvajYShADSNo=
+			GvBeMj0zcQxOgvURmQe8uJ9hrcmwM7Gy+aAMFO35xF4=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rmDZK0xSpaFMsiDxbee/p1ZqUPGNU61VN2jHzIKo6tE=
+			VFTiL1hIY91Zxto8P93ghfdlHN5HI8f+BIM9ICUuPzs=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
@@ -90,14 +101,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gQbFNrUURY3CaY6gkr/2gcEemJ7wp2qItsqyZNrvMt8=
+			LodagvVFVWySq2t7L+8/3WMBXa2TM3qiSBx7Xpft5XM=
 			</data>
 		</dict>
 		<key>EarthquakeInfoTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CyvcWFsMb5T5eAd7fqYEh4ImhKnWbq4m8e+xirlFkxs=
+			sPFAZzQf172BmQdRyXuST2IXEkooyhc9DoyP870BDv4=
 			</data>
 		</dict>
 		<key>LICENSE</key>

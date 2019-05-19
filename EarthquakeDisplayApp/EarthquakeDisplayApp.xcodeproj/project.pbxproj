@@ -7,18 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4427F3652290B5C500BBD5C4 /* EarthquakeSummaryModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 4427F3642290B5C500BBD5C4 /* EarthquakeSummaryModel.m */; };
+		4427F3702290BEE000BBD5C4 /* EarthquakeInfoTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4427F36A2290BEE000BBD5C4 /* EarthquakeInfoTableViewCell.xib */; };
+		4427F3712290BEE000BBD5C4 /* EarthquakeInfoTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4427F36C2290BEE000BBD5C4 /* EarthquakeInfoTableViewCell.m */; };
+		4427F3722290BEE000BBD5C4 /* SummaryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4427F36E2290BEE000BBD5C4 /* SummaryViewController.m */; };
+		4427F3752290BEFF00BBD5C4 /* MapDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4427F3742290BEFF00BBD5C4 /* MapDetailViewController.m */; };
+		4427F3782290C05F00BBD5C4 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4427F3772290C05F00BBD5C4 /* MapKit.framework */; };
 		445443F0228F6241009E7ECA /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 445443EF228F6241009E7ECA /* AppDelegate.m */; };
-		445443F3228F6241009E7ECA /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 445443F2228F6241009E7ECA /* ViewController.m */; };
 		445443F6228F6241009E7ECA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 445443F4228F6241009E7ECA /* Main.storyboard */; };
 		445443F8228F6242009E7ECA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 445443F7228F6242009E7ECA /* Assets.xcassets */; };
 		445443FB228F6242009E7ECA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 445443F9228F6242009E7ECA /* LaunchScreen.storyboard */; };
 		445443FE228F6242009E7ECA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 445443FD228F6242009E7ECA /* main.m */; };
 		44544408228F6242009E7ECA /* EarthquakeDisplayAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 44544407228F6242009E7ECA /* EarthquakeDisplayAppTests.m */; };
 		44544413228F6242009E7ECA /* EarthquakeDisplayAppUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 44544412228F6242009E7ECA /* EarthquakeDisplayAppUITests.m */; };
-		44544436228F6664009E7ECA /* EarthquakeInfoTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 44544434228F6664009E7ECA /* EarthquakeInfoTableViewCell.m */; };
-		44544439228F6664009E7ECA /* EarthquakeInfoTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 44544435228F6664009E7ECA /* EarthquakeInfoTableViewCell.xib */; };
-		4454443A228F6664009E7ECA /* EarthquakeInfoTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 44544435228F6664009E7ECA /* EarthquakeInfoTableViewCell.xib */; };
-		4454443B228F6664009E7ECA /* EarthquakeInfoTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 44544435228F6664009E7ECA /* EarthquakeInfoTableViewCell.xib */; };
 		4454446B228F6CA2009E7ECA /* UIProgressView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 44544446228F6CA1009E7ECA /* UIProgressView+AFNetworking.m */; };
 		4454446C228F6CA2009E7ECA /* UIRefreshControl+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 44544448228F6CA1009E7ECA /* UIRefreshControl+AFNetworking.m */; };
 		4454446D228F6CA2009E7ECA /* AFNetworkActivityIndicatorManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 4454444B228F6CA1009E7ECA /* AFNetworkActivityIndicatorManager.m */; };
@@ -66,11 +67,19 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4427F3632290B5C500BBD5C4 /* EarthquakeSummaryModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EarthquakeSummaryModel.h; sourceTree = "<group>"; };
+		4427F3642290B5C500BBD5C4 /* EarthquakeSummaryModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EarthquakeSummaryModel.m; sourceTree = "<group>"; };
+		4427F36A2290BEE000BBD5C4 /* EarthquakeInfoTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = EarthquakeInfoTableViewCell.xib; sourceTree = "<group>"; };
+		4427F36B2290BEE000BBD5C4 /* EarthquakeInfoTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EarthquakeInfoTableViewCell.h; sourceTree = "<group>"; };
+		4427F36C2290BEE000BBD5C4 /* EarthquakeInfoTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EarthquakeInfoTableViewCell.m; sourceTree = "<group>"; };
+		4427F36E2290BEE000BBD5C4 /* SummaryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SummaryViewController.m; sourceTree = "<group>"; };
+		4427F36F2290BEE000BBD5C4 /* SummaryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SummaryViewController.h; sourceTree = "<group>"; };
+		4427F3732290BEFF00BBD5C4 /* MapDetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MapDetailViewController.h; sourceTree = "<group>"; };
+		4427F3742290BEFF00BBD5C4 /* MapDetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MapDetailViewController.m; sourceTree = "<group>"; };
+		4427F3772290C05F00BBD5C4 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		445443EB228F6240009E7ECA /* EarthquakeDisplayApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EarthquakeDisplayApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		445443EE228F6241009E7ECA /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		445443EF228F6241009E7ECA /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		445443F1228F6241009E7ECA /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		445443F2228F6241009E7ECA /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		445443F5228F6241009E7ECA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		445443F7228F6242009E7ECA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		445443FA228F6242009E7ECA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -82,9 +91,6 @@
 		4454440E228F6242009E7ECA /* EarthquakeDisplayAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EarthquakeDisplayAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		44544412228F6242009E7ECA /* EarthquakeDisplayAppUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EarthquakeDisplayAppUITests.m; sourceTree = "<group>"; };
 		44544414228F6242009E7ECA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		44544433228F6664009E7ECA /* EarthquakeInfoTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EarthquakeInfoTableViewCell.h; sourceTree = "<group>"; };
-		44544434228F6664009E7ECA /* EarthquakeInfoTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EarthquakeInfoTableViewCell.m; sourceTree = "<group>"; };
-		44544435228F6664009E7ECA /* EarthquakeInfoTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = EarthquakeInfoTableViewCell.xib; sourceTree = "<group>"; };
 		44544446228F6CA1009E7ECA /* UIProgressView+AFNetworking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIProgressView+AFNetworking.m"; sourceTree = "<group>"; };
 		44544447228F6CA1009E7ECA /* UIButton+AFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+AFNetworking.h"; sourceTree = "<group>"; };
 		44544448228F6CA1009E7ECA /* UIRefreshControl+AFNetworking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIRefreshControl+AFNetworking.m"; sourceTree = "<group>"; };
@@ -149,6 +155,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4427F3782290C05F00BBD5C4 /* MapKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -169,6 +176,35 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4427F3692290BEE000BBD5C4 /* TableViewCells */ = {
+			isa = PBXGroup;
+			children = (
+				4427F36B2290BEE000BBD5C4 /* EarthquakeInfoTableViewCell.h */,
+				4427F36C2290BEE000BBD5C4 /* EarthquakeInfoTableViewCell.m */,
+				4427F36A2290BEE000BBD5C4 /* EarthquakeInfoTableViewCell.xib */,
+			);
+			path = TableViewCells;
+			sourceTree = "<group>";
+		};
+		4427F36D2290BEE000BBD5C4 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				4427F36F2290BEE000BBD5C4 /* SummaryViewController.h */,
+				4427F36E2290BEE000BBD5C4 /* SummaryViewController.m */,
+				4427F3732290BEFF00BBD5C4 /* MapDetailViewController.h */,
+				4427F3742290BEFF00BBD5C4 /* MapDetailViewController.m */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		4427F3762290C05E00BBD5C4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				4427F3772290C05F00BBD5C4 /* MapKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		445443E2228F6240009E7ECA = {
 			isa = PBXGroup;
 			children = (
@@ -176,6 +212,7 @@
 				44544406228F6242009E7ECA /* EarthquakeDisplayAppTests */,
 				44544411228F6242009E7ECA /* EarthquakeDisplayAppUITests */,
 				445443EC228F6240009E7ECA /* Products */,
+				4427F3762290C05E00BBD5C4 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -192,16 +229,13 @@
 		445443ED228F6240009E7ECA /* EarthquakeDisplayApp */ = {
 			isa = PBXGroup;
 			children = (
+				4427F3692290BEE000BBD5C4 /* TableViewCells */,
+				4427F36D2290BEE000BBD5C4 /* ViewControllers */,
 				4454447F228FFD95009E7ECA /* Models */,
 				4454447B228F6F46009E7ECA /* Manager */,
 				44544441228F6CA1009E7ECA /* Frameworks */,
-				44544433228F6664009E7ECA /* EarthquakeInfoTableViewCell.h */,
-				44544434228F6664009E7ECA /* EarthquakeInfoTableViewCell.m */,
-				44544435228F6664009E7ECA /* EarthquakeInfoTableViewCell.xib */,
 				445443EE228F6241009E7ECA /* AppDelegate.h */,
 				445443EF228F6241009E7ECA /* AppDelegate.m */,
-				445443F1228F6241009E7ECA /* ViewController.h */,
-				445443F2228F6241009E7ECA /* ViewController.m */,
 				445443F4228F6241009E7ECA /* Main.storyboard */,
 				445443F7228F6242009E7ECA /* Assets.xcassets */,
 				445443F9228F6242009E7ECA /* LaunchScreen.storyboard */,
@@ -309,6 +343,8 @@
 			children = (
 				445444C422900405009E7ECA /* GeoAPIBaseResponseModel.h */,
 				445444C522900406009E7ECA /* GeoAPIBaseResponseModel.m */,
+				4427F3632290B5C500BBD5C4 /* EarthquakeSummaryModel.h */,
+				4427F3642290B5C500BBD5C4 /* EarthquakeSummaryModel.m */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -477,8 +513,8 @@
 				445444BB228FFE49009E7ECA /* README.md in Resources */,
 				445443FB228F6242009E7ECA /* LaunchScreen.storyboard in Resources */,
 				445443F8228F6242009E7ECA /* Assets.xcassets in Resources */,
-				44544439228F6664009E7ECA /* EarthquakeInfoTableViewCell.xib in Resources */,
 				445443F6228F6241009E7ECA /* Main.storyboard in Resources */,
+				4427F3702290BEE000BBD5C4 /* EarthquakeInfoTableViewCell.xib in Resources */,
 				445444BA228FFE49009E7ECA /* LICENSE in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -487,7 +523,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4454443A228F6664009E7ECA /* EarthquakeInfoTableViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -495,7 +530,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4454443B228F6664009E7ECA /* EarthquakeInfoTableViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -510,7 +544,6 @@
 				44544476228F6CA2009E7ECA /* AFURLSessionManager.m in Sources */,
 				4454446C228F6CA2009E7ECA /* UIRefreshControl+AFNetworking.m in Sources */,
 				445444C622900406009E7ECA /* GeoAPIBaseResponseModel.m in Sources */,
-				445443F3228F6241009E7ECA /* ViewController.m in Sources */,
 				44544470228F6CA2009E7ECA /* UIActivityIndicatorView+AFNetworking.m in Sources */,
 				445444BD228FFE49009E7ECA /* JSONKeyMapper.m in Sources */,
 				44544478228F6CA2009E7ECA /* AFNetworkReachabilityManager.m in Sources */,
@@ -519,8 +552,8 @@
 				445443FE228F6242009E7ECA /* main.m in Sources */,
 				4454446D228F6CA2009E7ECA /* AFNetworkActivityIndicatorManager.m in Sources */,
 				44544475228F6CA2009E7ECA /* AFHTTPSessionManager.m in Sources */,
+				4427F3652290B5C500BBD5C4 /* EarthquakeSummaryModel.m in Sources */,
 				44544477228F6CA2009E7ECA /* AFURLRequestSerialization.m in Sources */,
-				44544436228F6664009E7ECA /* EarthquakeInfoTableViewCell.m in Sources */,
 				445444BC228FFE49009E7ECA /* JSONValueTransformer.m in Sources */,
 				4454446F228F6CA2009E7ECA /* UIButton+AFNetworking.m in Sources */,
 				44544472228F6CA2009E7ECA /* AFAutoPurgingImageCache.m in Sources */,
@@ -529,9 +562,12 @@
 				445444C3228FFE49009E7ECA /* JSONModel+networking.m in Sources */,
 				4454447E228F6F46009E7ECA /* GeoAPIServerManager.m in Sources */,
 				445444C2228FFE49009E7ECA /* JSONAPI.m in Sources */,
+				4427F3712290BEE000BBD5C4 /* EarthquakeInfoTableViewCell.m in Sources */,
+				4427F3722290BEE000BBD5C4 /* SummaryViewController.m in Sources */,
 				445444C1228FFE49009E7ECA /* JSONHTTPClient.m in Sources */,
 				445444BE228FFE49009E7ECA /* JSONModel.m in Sources */,
 				44544479228F6CA2009E7ECA /* AFSecurityPolicy.m in Sources */,
+				4427F3752290BEFF00BBD5C4 /* MapDetailViewController.m in Sources */,
 				44544473228F6CA2009E7ECA /* AFImageDownloader.m in Sources */,
 				4454446E228F6CA2009E7ECA /* UIImageView+AFNetworking.m in Sources */,
 				445443F0228F6241009E7ECA /* AppDelegate.m in Sources */,

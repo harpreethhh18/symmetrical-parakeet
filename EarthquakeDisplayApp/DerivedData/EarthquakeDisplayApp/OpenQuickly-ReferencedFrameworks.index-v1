@@ -2,21 +2,22 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
+	<string>AppKit</string>
 	<string>CoreServices</string>
 	<string>CoreGraphics</string>
 	<string>WatchKit</string>
 	<string>Security</string>
-	<string>XCTest</string>
 	<string>netinet</string>
 	<string>netinet6</string>
+	<string>MapKit</string>
 	<string>MobileCoreServices</string>
-	<string>CoreData</string>
+	<string>XCTest</string>
 	<string>objc</string>
 	<string>Cocoa</string>
 	<string>UIKit</string>
 	<string>Foundation</string>
 	<string>SystemConfiguration</string>
 	<string>arpa</string>
-	<string>AppKit</string>
+	<string>CoreData</string>
 </array>
 </plist>
